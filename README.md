@@ -1,2 +1,2 @@
-# Servomecanismos_Proyecto_Academico
- 
+# Proyecto Academico servomecanismos 2024-1 (2?)
+
